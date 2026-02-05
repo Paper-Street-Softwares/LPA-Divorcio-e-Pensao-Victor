@@ -76,22 +76,31 @@ function NavbarNovaTemplate({
             }`}
           >
             {' '}
-            <img
-              src={content.texts.navbar.logo.img}
-              alt={content.texts.navbar.logo.alt}
-              className="w-[100%] desktop1:hidden"
-              width={195}
-              height={138}
-              fetchPriority="high"
-            />
-            <img
-              src={content.texts.navbar.logo.imgDesktop}
-              alt={content.texts.navbar.logo.alt}
-              className="w-[100%] hidden desktop1:flex"
-              width={350}
-              height={248}
-              fetchPriority="high"
-            />
+            <Link
+              smooth={true}
+              duration={500}
+              offset={-90}
+              // spy={true}
+              // hashSpy={true}
+              className="cursor-pointer"
+            >
+              <img
+                src={content.texts.navbar.logo.img}
+                alt={content.texts.navbar.logo.alt}
+                className="w-[100%] desktop1:hidden"
+                width={195}
+                height={138}
+                fetchPriority="high"
+              />
+              <img
+                src={content.texts.navbar.logo.imgDesktop}
+                alt={content.texts.navbar.logo.alt}
+                className="w-[100%] hidden desktop1:flex"
+                width={350}
+                height={248}
+                fetchPriority="high"
+              />
+            </Link>{' '}
           </div>
 
           {/* Desktop Nav */}
