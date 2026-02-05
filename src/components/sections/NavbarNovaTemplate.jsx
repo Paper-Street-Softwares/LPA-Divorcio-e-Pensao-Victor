@@ -83,6 +83,7 @@ function NavbarNovaTemplate({
               // spy={true}
               // hashSpy={true}
               className="cursor-pointer"
+              aria-label="Link de retorno a Hero"
             >
               <img
                 src={content.texts.navbar.logo.img}
