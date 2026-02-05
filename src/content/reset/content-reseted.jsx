@@ -496,7 +496,7 @@ const content = {
         },
         label2: {
           icon: <Check />,
-          text: ' Atendimento direto com advogado criminalista',
+          text: ' Atendimento direto com Advogado criminalista',
         },
         label3: {
           icon: <Check />,

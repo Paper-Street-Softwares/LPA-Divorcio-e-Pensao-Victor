@@ -167,7 +167,7 @@ const content = {
       alt: 'Imagem ilustrativa da Seção Início',
       ctaButtonAriaLabel:
         'Botão para chamada de ação para contato pelo whatsapp',
-      ctaButtonText: 'Falar com um advogado',
+      ctaButtonText: 'Falar com um Advogado',
       ctaButtonTextSecondary: 'A_Definir',
       obsHero: {
         icon: <LucideIdCard />,
@@ -200,19 +200,19 @@ const content = {
       title: 'O que é importante saber sobre divórcio, pensões e partilhas',
       cards: {
         card1: {
-          title: 'Preciso mesmo de advogado pra me divorciar?',
+          title: 'Preciso mesmo de Advogado pra me divorciar?',
           paragraph:
-            'Sim. Mesmo no divórcio consensual existem direitos, prazos e riscos que passam despercebidos. Um advogado garante que nada fique para trás. Falar com um profissional evita prejuízos futuros.',
+            'Sim. Mesmo no divórcio consensual existem direitos, prazos e riscos que passam despercebidos. Um Advogado garante que nada fique para trás. Falar com um profissional evita prejuízos futuros.',
         },
         card2: {
           title: 'Quem define o valor da pensão alimentícia?',
           paragraph:
-            'O valor depende da necessidade de quem recebe e da possibilidade de quem paga. Cada caso é único e precisa de análise jurídica. Um advogado avalia corretamente e evita decisões injustas.',
+            'O valor depende da necessidade de quem recebe e da possibilidade de quem paga. Cada caso é único e precisa de análise jurídica. Um Advogado avalia corretamente e evita decisões injustas.',
         },
         card3: {
           title: 'A guarda dos filhos é sempre compartilhada?',
           paragraph:
-            'Não obrigatoriamente. A guarda deve atender ao melhor interesse da criança, e isso varia conforme a situação. Um advogado orienta qual modelo é mais seguro para proteger seus filhos.',
+            'Não obrigatoriamente. A guarda deve atender ao melhor interesse da criança, e isso varia conforme a situação. Um Advogado orienta qual modelo é mais seguro para proteger seus filhos.',
         },
         card4: {
           title: 'Como funciona a divisão dos bens no divórcio?',
@@ -238,7 +238,7 @@ const content = {
       imgFeatures: imgFeatures,
       alt: 'imagem representativa da Seção Serviços',
       titleMessageFeature: '100%',
-      subtitleMessageFeature: 'responsabilidade e confidencialidade',
+      subtitleMessageFeature: 'respeito à sua dor',
       cards: {
         card1: {
           title: 'Divórcio consensual e litigioso',
@@ -347,7 +347,7 @@ const content = {
           subtitle: 'A_Definir',
         },
       },
-      ctaButtonText: 'Converse com um advogado',
+      ctaButtonText: 'Converse com um Advogado',
     },
     emergency: {
       minitag: 'A_Definir',
@@ -408,7 +408,7 @@ const content = {
       paragraphModalCta: 'Entre em contato',
       titleModal: 'A_Definir',
       ctaButtonAriaLabel: 'Botão para entrar em contato',
-      ctaButtonText: 'Falar diretamente com o advogado',
+      ctaButtonText: 'Falar diretamente com o Advogado',
       // aboutSocial: {
       //   img: {
       //     img: aboutSocialImg,
@@ -453,7 +453,7 @@ const content = {
     //   },
     // },
     steps: {
-      miniTag: 'POR QUE TER UM ADVOGADO AO SEU LADO',
+      miniTag: 'POR QUE TER UM Advogado AO SEU LADO',
       title: (
         <h1>
           Decisões difíceis pedem
@@ -484,7 +484,7 @@ const content = {
           stepNumber: 3,
           cardTitle: 'Menos desgaste emocional',
           cardDescription:
-            'O advogado assume a parte técnica e estratégica, permitindo que você atravesse esse momento com mais tranquilidade e menos pressão.',
+            'O Advogado assume a parte técnica e estratégica, permitindo que você atravesse esse momento com mais tranquilidade e menos pressão.',
         },
         card4: {
           stepNumber: 4,
@@ -493,7 +493,7 @@ const content = {
             'Nem todo caso precisa virar um processo longo. A orientação correta evita conflitos desnecessários e decisões precipitadas.',
         },
       },
-      ctaButtonText: 'Converse agora com um advogado',
+      ctaButtonText: 'Converse agora com um Advogado',
     },
     ctaSecondary: {
       miniTag: 'Fale conosco',
@@ -514,7 +514,7 @@ const content = {
         },
         label2: {
           icon: <Check />,
-          text: ' Atendimento direto com advogado, sem intermediários',
+          text: ' Atendimento direto com Advogado, sem intermediários',
         },
         label3: {
           icon: <Check />,

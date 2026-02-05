@@ -103,7 +103,7 @@
 //       ctaButtonTextResponsive: "Contato",
 //     },
 //     hero: {
-//       miniTag: "ADVOGADO ESPECIALIZADO EM CARUARU - PE",
+//       miniTag: "Advogado ESPECIALIZADO EM CARUARU - PE",
 //       title: (
 //         <h1 className="mb-[16px]">
 //           Defendemos
@@ -328,7 +328,7 @@
 //     about: {
 //       imagem: {
 //         img: aboutImg1,
-//         alt: "Imagem profissional de escritório/advogado(a)",
+//         alt: "Imagem profissional de escritório/Advogado(a)",
 //       },
 //       miniTag: "QUEM É MATTHÄUS ADVOCACIA ESPECIALIZADA",
 //       title: "Minha trajetória",

@@ -26,7 +26,7 @@
 //     description:
 //       "Especialistas em direito trabalhista e previdenciário em Joinville. Testoni & Advogados oferece atendimento humanizado e defesa de seus direitos.",
 //     keywords:
-//       "aposentadoria por invalidez,aposentadoria especial, aposentadoria por tempo de contribuição, aposentadoria por idade,peculio, auxilio doença, auxilio acidente, advogado previdenciário, advogado aposentadoria inss, advogado auxilio doença, advogado especialista em inss, advogado auxílio acidente, advogado especialista aposentadoria, advogado especialista em pensão por morte, advogado previdenciário Joinville, advogado INSS Joinville, auxílio doença negado, auxílio acidente negado, aposentadoria negada, revisão de aposentadoria, pensão por morte, aposentadoria rural, benefício negado inss.",
+//       "aposentadoria por invalidez,aposentadoria especial, aposentadoria por tempo de contribuição, aposentadoria por idade,peculio, auxilio doença, auxilio acidente, Advogado previdenciário, Advogado aposentadoria inss, Advogado auxilio doença, Advogado especialista em inss, Advogado auxílio acidente, Advogado especialista aposentadoria, Advogado especialista em pensão por morte, Advogado previdenciário Joinville, Advogado INSS Joinville, auxílio doença negado, auxílio acidente negado, aposentadoria negada, revisão de aposentadoria, pensão por morte, aposentadoria rural, benefício negado inss.",
 //   },
 //   hero: {
 //     bgImg: bgImg,
@@ -43,7 +43,7 @@
 //         </h1>
 //       ),
 //       subtitle:
-//         "Nossos advogados previdenciários em Joinville atuam para que você receba todos os seus direitos — mesmo que o INSS tenha negado seu benefício.",
+//         "Nossos Advogados previdenciários em Joinville atuam para que você receba todos os seus direitos — mesmo que o INSS tenha negado seu benefício.",
 //       buttonLabel: "Falar com um Advogado agora",
 //       ctaButtonAriaLabel:
 //         "Botão para chamada de ação para contato pelo whatsapp",
@@ -173,8 +173,8 @@
 //     cards: {
 //       card1: {
 //         icon: <Gavel width={32} height={32} />,
-//         title: "Atendimento direto com advogados experientes",
-//         description: "Cada cliente é atendido pessoalmente por um advogado.",
+//         title: "Atendimento direto com Advogados experientes",
+//         description: "Cada cliente é atendido pessoalmente por um Advogado.",
 //       },
 //       card2: {
 //         icon: <Search width={32} height={32} />,
@@ -212,7 +212,7 @@
 //         </p>
 //       ),
 //     },
-//     buttonLabel: "Fale com um advogado agora",
+//     buttonLabel: "Fale com um Advogado agora",
 //     ctaButtonAriaLabel: "Botão de Contato",
 //   },
 //   contact: {
@@ -298,7 +298,7 @@
 //   },
 //   footer: {
 //     copyrightLine: `© ${currentYear} ${infos.name}. Todos os direitos reservados.`,
-//     disclaimer: `Este site não é um produto Meta Platforms, Inc., Google LLC, tampouco oferece serviços públicos oficiais. ${infos.name} oferece serviços jurídicos privativos de advogado, de acordo com a legislação vigente e o Código de Ética e Disciplina da Ordem dos Advogados do Brasil.`,
+//     disclaimer: `Este site não é um produto Meta Platforms, Inc., Google LLC, tampouco oferece serviços públicos oficiais. ${infos.name} oferece serviços jurídicos privativos de Advogado, de acordo com a legislação vigente e o Código de Ética e Disciplina da Ordem dos Advogados do Brasil.`,
 //   },
 //   links: {
 //     instagram: `https://www.instagram.com/${infos.instagramProfile}/`,
