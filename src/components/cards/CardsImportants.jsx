@@ -17,7 +17,7 @@ function CardsImportants({ title, paragraph, colorMode, className }) {
       break
     case 'dark':
       // bgCard = 'bg-black hover:bg-primaryDark'
-      bgCard = 'bg-black'
+      bgCard = 'bg-darkOpacity'
       bgCircle = 'bg-dark'
       // bgCircleHover =
       //   'group-hover:bg-primaryDark group-hover:border-2 border-primaryLight group-hover:border-black'
