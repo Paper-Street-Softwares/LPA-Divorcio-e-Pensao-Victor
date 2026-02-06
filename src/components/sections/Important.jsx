@@ -19,7 +19,7 @@ function Important({ colorMode }) {
       textDestaque = 'text-primaryDark'
       break
     case 'dark':
-      backgroundMode = 'bg-darkOpacity'
+      backgroundMode = 'bg-black'
       text = 'text-corTitulosBranca'
       textOpacity = 'text-corOutrosTextosBranca'
       textDestaque = 'text-primaryDark'

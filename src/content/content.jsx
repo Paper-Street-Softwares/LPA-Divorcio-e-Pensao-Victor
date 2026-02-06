@@ -120,12 +120,12 @@ const content = {
       ctaButtonTextResponsive: 'Contato',
     },
     hero: {
-      miniTag: 'Direito de Família',
+      miniTag: 'ESCRITÓRIO DE DIREITO DE FAMÍLIA',
       title: (
         <h1>
-          Advocacia segura para decisões{' '}
+          Decisões familiares erradas custam{' '}
           <span className="destaque relative italic font-light">
-            familiares
+            caro
             <span>
               <svg
                 className="hero-underline absolute bottom-2 left-0 w-full h-3 text-accent/30 hidden desktop1:flex"
@@ -157,8 +157,8 @@ const content = {
       ),
       subtitle: (
         <p>
-          Orientação clara e estratégica para divórcios, guarda, pensão e
-          patrimônio, com foco em resolver e proteger.
+          Divórcio, pensão, guarda ou patrimônio: cada dia sem ação é dinheiro e
+          direitos indo embora.
         </p>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
@@ -172,7 +172,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: 'Adiar a orientação jurídica costuma custar mais do que agir agora.',
+        text: ' Quem espera “ver no que dá” normalmente perde dinheiro, tempo e direitos no processo.',
         textTwo: 'A_Definir',
       },
       secondaryCta: 'Contato',
@@ -228,13 +228,13 @@ const content = {
       miniTag: 'Direito de Família',
       title: (
         <h1>
-          Soluções
-          <span className="destaque italic font-light"> jurídicas </span>
-          firmes para conflitos familiares
+          Proteja seu
+          <span className="destaque italic font-light"> patrimônio </span>e sua
+          família antes que seja tarde
         </h1>
       ),
       subtitle:
-        'Atuação estratégica para proteger seus direitos, seu patrimônio e o bem-estar da sua família em cada decisão importante.',
+        'Divórcio, pensão, guarda ou herança: cada dia sem ação é dinheiro, direitos e futuro perdidos.',
       imgFeatures: imgFeatures,
       alt: 'imagem representativa da Seção Serviços',
       titleMessageFeature: '100%',
@@ -242,7 +242,8 @@ const content = {
       cards: {
         card1: {
           title: 'Divórcio consensual e litigioso',
-          subtitle: 'Resolução rápida, estratégica e segura do seu divórcio',
+          subtitle:
+            'Resolva seu divórcio rápido e seguro antes que perdas aconteçam.',
           description: (
             <div>
               A_Definir
@@ -257,7 +258,8 @@ const content = {
         },
         card2: {
           title: 'Dissolução de união estável',
-          subtitle: 'Fim da união estável com direitos protegidos legalmente',
+          subtitle:
+            'Acabe com a união estável protegendo seus direitos e seu patrimônio agora.',
           description: (
             <div>
               A_Definir
@@ -272,7 +274,8 @@ const content = {
         },
         card3: {
           title: 'Guarda de filhos',
-          subtitle: 'Decisões firmes para proteger o futuro dos filhos seguro',
+          subtitle:
+            'Decisões firmes para garantir o futuro e segurança dos seus filhos.',
           description: (
             <div>
               A_Definir <br />
@@ -286,7 +289,7 @@ const content = {
         },
         card4: {
           title: 'Pensão alimentícia',
-          subtitle: 'Pensão justa e eficiente sem atrasos ou prejuízos reais',
+          subtitle: 'Receba ou pague o que é justo, sem atrasos ou prejuízos.',
           description: (
             <div>
               A_Definir
@@ -301,7 +304,8 @@ const content = {
         },
         card5: {
           title: 'Partilha de bens e sobrepartilha',
-          subtitle: 'Divisão patrimonial estratégica para evitar perdas reais',
+          subtitle:
+            'Divida bens de forma estratégica e evite perder patrimônio de verdade.',
           description: (
             <div>
               A_Definir
@@ -316,7 +320,8 @@ const content = {
         },
         card6: {
           title: 'Orientação patrimonial familiar',
-          subtitle: 'Planejamento familiar para proteger patrimônio futuro',
+          subtitle:
+            'Planeje seu patrimônio familiar hoje para não se arrepender amanhã.',
           description: (
             <div>
               A_Definir
@@ -453,18 +458,16 @@ const content = {
     //   },
     // },
     steps: {
-      miniTag: 'POR QUE TER UM Advogado AO SEU LADO',
+      miniTag: 'POR QUE TER UM ADVOGADO AO SEU LADO',
       title: (
         <h1>
-          Decisões difíceis pedem
-          <span className="destaque italic font-light">
-            {' '}
-            orientação segura{' '}
-          </span>
+          Decisões difíceis
+          <span className="destaque italic font-light"> custam caro </span>
+          sem orientação
         </h1>
       ),
       subtitle:
-        'Evite erros, desgaste emocional e prejuízos tomando decisões com apoio jurídico desde o início',
+        'Evite erros que queimam dinheiro, tempo e patrimônio. Decida com um especialista ao seu lado desde o início.',
       img: imgSteps,
       alt: 'Imagem ilustrativa da Seção Passo a Passo',
       cards: {
@@ -472,25 +475,25 @@ const content = {
           stepNumber: 1,
           cardTitle: 'Clareza antes do conflito',
           cardDescription:
-            'Você entende exatamente seus direitos, riscos e possibilidades antes de qualquer decisão, evitando surpresas e arrependimentos no futuro.',
+            'Saiba seus direitos, riscos e alternativas antes que seja tarde. Surpresas ruins custam caro.',
         },
         card2: {
           stepNumber: 2,
           cardTitle: 'Proteção do seu patrimônio e da sua família',
           cardDescription:
-            'Cada escolha é pensada para preservar bens, garantir segurança financeira e proteger quem realmente importa para você.',
+            'Cada decisão é calculada para proteger seus bens, sua segurança financeira e quem você ama. Perder não é opção.',
         },
         card3: {
           stepNumber: 3,
           cardTitle: 'Menos desgaste emocional',
           cardDescription:
-            'O Advogado assume a parte técnica e estratégica, permitindo que você atravesse esse momento com mais tranquilidade e menos pressão.',
+            'Enquanto você foca no que importa, o advogado cuida da estratégia e da parte técnica. Menos pressão, mais resultados.',
         },
         card4: {
           stepNumber: 4,
           cardTitle: 'Estratégia certa no momento certo',
           cardDescription:
-            'Nem todo caso precisa virar um processo longo. A orientação correta evita conflitos desnecessários e decisões precipitadas.',
+            'Evite processos longos e decisões precipitadas. Atue com inteligência antes que o problema vire um prejuízo real.',
         },
       },
       ctaButtonText: 'Converse agora com um Advogado',

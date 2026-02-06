@@ -17,7 +17,7 @@ function CardsImportants({ title, paragraph, colorMode, className }) {
       break
     case 'dark':
       // bgCard = 'bg-black hover:bg-primaryDark'
-      bgCard = 'bg-black'
+      bgCard = 'bg-darkOpacity'
       bgCircle = 'bg-dark'
       // bgCircleHover =
       //   'group-hover:bg-primaryDark group-hover:border-2 border-primaryLight group-hover:border-black'
@@ -55,8 +55,7 @@ function CardsImportants({ title, paragraph, colorMode, className }) {
             width={32}
             height={32}
             alt="Ícone de exclamação"
-            className="w-8 group-hover:invert duration-700 transition-all"
-            // className="w-8 duration-700 transition-all"
+            className="w-8 duration-700 transition-all"
           />
         </div>
       </div>
