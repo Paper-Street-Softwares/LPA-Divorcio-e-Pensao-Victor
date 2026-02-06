@@ -70,6 +70,7 @@ function FooterNovoTemplate({
                   // hashSpy={true}
                   className="cursor-pointer"
                   aria-label="Link de retorno a Hero"
+                  href='/home'
                 >
                   <img
                     src={content.texts.navbar.logo.img}
