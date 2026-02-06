@@ -90,7 +90,7 @@ function NavbarNovaTemplate({
                 alt={content.texts.navbar.logo.alt}
                 className="w-[100%] desktop1:hidden"
                 width={195}
-                height={138}
+                height={136}
                 fetchPriority="high"
               />
               <img
@@ -98,7 +98,7 @@ function NavbarNovaTemplate({
                 alt={content.texts.navbar.logo.alt}
                 className="w-[100%] hidden desktop1:flex"
                 width={350}
-                height={248}
+                height={244}
                 fetchPriority="high"
               />
             </Link>{' '}

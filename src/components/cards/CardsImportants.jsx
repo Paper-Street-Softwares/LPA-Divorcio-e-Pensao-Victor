@@ -55,8 +55,7 @@ function CardsImportants({ title, paragraph, colorMode, className }) {
             width={32}
             height={32}
             alt="Ícone de exclamação"
-            className="w-8 group-hover:invert duration-700 transition-all"
-            // className="w-8 duration-700 transition-all"
+            className="w-8 duration-700 transition-all"
           />
         </div>
       </div>
