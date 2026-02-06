@@ -76,15 +76,11 @@ function NavbarNovaTemplate({
             }`}
           >
             {' '}
-            <Link
-              smooth={true}
-              duration={500}
-              offset={-90}
-              // spy={true}
-              // hashSpy={true}
+            <a
               className="cursor-pointer"
-              aria-label="Link de retorno a Hero"
-              href='/home'
+              href="/"
+              onClick={() => window.location.reload()}
+              aria-label="recarregar página "
             >
               <img
                 src={content.texts.navbar.logo.img}
@@ -102,7 +98,7 @@ function NavbarNovaTemplate({
                 height={244}
                 fetchPriority="high"
               />
-            </Link>{' '}
+            </a>{' '}
           </div>
 
           {/* Desktop Nav */}

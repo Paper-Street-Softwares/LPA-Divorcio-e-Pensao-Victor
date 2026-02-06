@@ -62,15 +62,11 @@ function FooterNovoTemplate({
             >
               {/* Logo e infos */}
               <div className="space-y-6">
-                <Link
-                  smooth={true}
-                  duration={500}
-                  offset={-90}
-                  // spy={true}
-                  // hashSpy={true}
+                <a
                   className="cursor-pointer"
-                  aria-label="Link de retorno a Hero"
-                  href='/home'
+                  href="/"
+                  onClick={() => window.location.reload()}
+                  aria-label="recarregar página "
                 >
                   <img
                     src={content.texts.navbar.logo.img}
@@ -79,8 +75,7 @@ function FooterNovoTemplate({
                     width={187}
                     height={119}
                   />
-                </Link>
-
+                </a>{' '}
                 <p
                   className={`leading-relaxed font-secondFont font-light ${textOpacity}`}
                 >
