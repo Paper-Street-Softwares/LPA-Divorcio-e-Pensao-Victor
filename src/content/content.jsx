@@ -123,9 +123,9 @@ const content = {
       miniTag: 'ESCRITÓRIO DE DIREITO DE FAMÍLIA',
       title: (
         <h1>
-          Decisões familiares erradas custam{' '}
+          Decisões{' '}
           <span className="destaque relative italic font-light">
-            caro
+            familiares
             <span>
               <svg
                 className="hero-underline absolute bottom-2 left-0 w-full h-3 text-accent/30 hidden desktop1:flex"
@@ -152,7 +152,8 @@ const content = {
                 />
               </svg>
             </span>
-          </span>
+          </span>{' '}
+          erradas custam caro
         </h1>
       ),
       subtitle: (
